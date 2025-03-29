@@ -1,11 +1,11 @@
 # Mai multe despre proiecte
 
-Aici voi adăuga câteva dintre proiectele la care am lucrat în ultimii 2-3 ani.
+Mai jos am adăugat câteva dintre proiectele la care am lucrat în ultimii 2 ani.
 
 ## 2025 - Prezent
 
 ### Moduri TmodLauncher
-Încerc să creez o versiune modificată a jocului *Terraria*, folosindu-mă de propriile mele cunoștințe de C# și sprite-uri desenate în Paint.
+Creez o versiune modificată a jocului *Terraria*, folosindu-mă de propriile mele cunoștințe de C# și sprite-uri desenate în Gimp.
 
 ## 2025
 
@@ -25,7 +25,7 @@ Am participat la o școală de vară oferită în cadrul facultății pentru cre
 ## 2024
 
 ### Algoritm de detectare a anomaliilor în clasificarea obiectelor
-Am proiectat, în cod Python, un algoritm ce primește câteva mii de „poze” de rezoluție mică, pixelate, alb-negru pentru antrenament, iar apoi o cantitate mai mică, dar tot în cifra miilor, ce urmau să fie clasificate ca obiecte (ex: tricou, pantof) cu o eficiență de 91%. A fost un proiect impus de un curs al facultății, iar rezultatul meu a fost plasat în top 10 al celor mai bune performanțe din seria participantă (aprox. 80 de studenți).
+Am proiectat, în cod Python, un algoritm ce primește câteva mii de „poze” de rezoluție mică, pixelate, alb-negru pentru antrenament, iar apoi o cantitate mai mică, dar tot în cifra miilor, ce urmau să fie clasificate ca obiecte (ex: tricou, pantof) cu o eficiență de 91%. A fost un proiect propus de un curs al facultății, iar rezultatul meu a fost plasat în top 10 al celor mai bune performanțe din seria participantă (aprox. 80 de studenți).
 
 ## 2024
 
@@ -35,7 +35,7 @@ Am creat o bază de date în SQL pentru evidența pacienților cu tratamente spe
 ## 2023
 
 ### Aplicație web
-Am codat o pagină web despre un joc video folosind HTML, CSS și JS, care conținea diverse elemente implementate pentru experiența proprie.
+Am codat o pagină web despre un joc video folosind HTML, CSS și JS, care conținea diverse elemente implementate pentru experiența mea proprie.
 
 ## 2023
 
