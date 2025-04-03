@@ -32,6 +32,11 @@ Am proiectat, în cod Python, un algoritm ce primește câteva mii de „poze”
 ### Bază de date cu interfața grafică
 Am creat o bază de date în SQL pentru evidența pacienților cu tratamente speciale, la care am realizat o interfață grafică cu secțiune de login în C#.
 
+## 2024
+
+### Participare la ZebraHack Hackathon
+Am creat o pagina web folosind HTML, CSS și JS.
+
 ## 2023
 
 ### Aplicație web
