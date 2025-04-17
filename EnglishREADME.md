@@ -5,7 +5,7 @@ Below are some of the projects I’ve worked on over the past 2 years.
 ## 2025 - Present
 
 ### TmodLauncher Mods
-I’m creating a modified version of the game *Terraria*, using my own knowledge of C# and custom sprites drawn in GIMP.
+I’m creating a modified version of the game Terraria, using my own knowledge of C# and custom sprites drawn in GIMP.
 
 ## 2025
 
