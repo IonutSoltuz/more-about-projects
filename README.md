@@ -1,6 +1,21 @@
-# Mai multe despre proiecte
+# Mai multe despre proiectele mele
 
 Mai jos am adăugat câteva dintre proiectele la care am lucrat în ultimii 2 ani.
+
+## 2026
+
+### Simulare Bandă de Manipulare și Sortare cu Braț Robotic în RobotStudio
+O simulare a unei linii de manipulare cu braț robotic programată într-un limbaj industrial care sortează automat obiecte cu forme, poziții și orientări variate.
+
+## 2025
+
+### Experiență CODESYS + Lift Complex
+Am dezvoltat o interfață de control pentru un lift cu selecție multiplă de etaje și mai multe alte proiecte de automatizare pentru propria mea experiență folosind CODESYS.
+
+## 2025
+
+### Practică WeBots
+Am creat o simulare a unui robot cu tracțiune diferențială controlabil în WeBots.
 
 ## 2025 - Prezent
 
@@ -37,12 +52,12 @@ Am creat o bază de date în SQL pentru evidența pacienților cu tratamente spe
 ### Participare la ZebraHack Hackathon
 Am creat o pagina web folosind HTML, CSS și JS.
 
-## 2023
+## 2024
 
 ### Aplicație web
 Am codat o pagină web despre un joc video folosind HTML, CSS și JS, care conținea diverse elemente implementate pentru experiența mea proprie.
 
-## 2023
+## 2024
 
 ### Decriptarea și ajustarea unei "imagini"
 Am creat un cod în C care citește un document Notepad scris literalmente în chineză și îl transformă în text ce cuprinde numere de trei cifre, reprezentând nuanțe de gri în formatul PGM al imaginii. După decriptare, urma o secvență de îmbunătățire a clarității imaginii, aplicând un filtru median cu rază variabilă, selectată de utilizator. Imaginea PGM era intenționat coruptă de „stray pixels” pentru a evidenția diferențele razelor.
