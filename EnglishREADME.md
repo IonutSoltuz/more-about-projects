@@ -2,6 +2,21 @@
 
 Below are some of the projects I’ve worked on over the past 2 years.
 
+## 2026
+
+### Robotic-Arm Handling & Sorting Line Simulation in RobotStudio
+A robotic-arm handling line simulation programmed in an industrial language that automatically sorts objects of varying shapes, positions, and orientations while ensuring product quality. 
+
+## 2025
+
+### CODESYS Expreicence + Complex Elevator
+I developed a lift control interface with multi-floor selection and several other automation projects for practice using CODESYS.
+
+## 2025 
+
+### WeBots practice
+I created a simulation of a differential-drive robot controllable in WeBots.
+
 ## 2025 - Present
 
 ### TmodLauncher Mods
@@ -43,12 +58,12 @@ I created an SQL database for tracking patients with special treatments, for whi
 ### Participation in ZebraHack Hackathon
 I developed a web page using HTML, CSS, and JS.
 
-## 2023
+## 2024
 
 ### Web Application
 I coded a web page about a video game using HTML, CSS, and JS, incorporating various interactive elements for my personal learning.
 
-## 2023
+## 2024
 
 ### Decryption and Enhancement of an “Image”
 I wrote a C program that reads a Notepad document literally written in Chinese and converts it into text containing three-digit numbers representing grayscale shades in PGM image format.
